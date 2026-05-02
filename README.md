@@ -50,7 +50,7 @@ Medi Explain AI is a web-based application designed to help users understand the
 - Database Module
 
 ## 📅 Project Duration
-Feb 2025 – May 2025
+Feb 2026 – May 2026
 
 ## 📂 How to Run
 ```bash
