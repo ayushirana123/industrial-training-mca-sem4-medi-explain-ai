@@ -96,7 +96,7 @@ This tool provides a foundation for explainable AI in healthcare, merging vision
 
 🙌 Credits
 - Inspired by the need to make medical lab reports more understandable for patients
-- Developed by @coderstale
+- Developed by Ayushi Rana
 
 ⸻
 
